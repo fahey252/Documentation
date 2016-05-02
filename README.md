@@ -1,2 +1,2 @@
 # Documentation
-Personal documentation on processes and scripts
+Personal documentation on processes and scripts.
