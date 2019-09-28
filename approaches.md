@@ -5,5 +5,6 @@
 - Minimize refactoring code in production... don't ship shit
 - Single responsibility - things that do one thing and do it well. 
 - Develop with other developers in mind. 
-  + How is someone else going to understand what this does and how it works. 
+  + How is someone else going to understand what this does and how it works.
+- Be consisent, explicit vs implicit to reduce cognitive overhead. Fewer decisions means faster development.
  
